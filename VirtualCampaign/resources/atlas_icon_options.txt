@@ -1,0 +1,8 @@
+city_mark
+fort_mark
+history_mark
+landmark_mark
+map_mark
+ruin_mark
+speech_mark
+town_mark

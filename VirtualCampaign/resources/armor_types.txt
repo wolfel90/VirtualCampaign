@@ -1,0 +1,4 @@
+Light
+Medium
+Heavy
+Shield

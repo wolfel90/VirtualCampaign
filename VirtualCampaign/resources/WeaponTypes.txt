@@ -1,0 +1,18 @@
+Axe
+Blade
+Bow
+Channel
+Dagger
+Greatblade
+Hammer
+Knuckles
+Magic Glove
+Magic Staff
+Pistol
+Polearm
+Rifle
+Spear
+Staff
+Sword
+Tome
+Wand

@@ -1,0 +1,65 @@
+ACC:Accuracy
+AGI:Agility
+AGIMOD:Agility Modifier
+AGIEPB:EP Bonus - AGI
+AWA:Awareness
+BAL:Balance
+BDEF:Base Defense
+BDMG:Base Damage
+BLURES:Blunt Resistance
+CC:Crit. Chance
+CHA:Charisma
+CHAMOD:Charisma Modifier
+CHAEPB:EP Bonus - CHA
+CHAMPB:MP Bonus - CHA
+CHAN:Channeling
+CONC:Concentration
+COLRES:Cold Resistance
+DARRES:Dark Resistance
+DB:Dodge/Block
+DDG:Dodge
+DEF:Defense
+DMG:Damage
+DTM:Detect Magic
+EP:Energy Points
+EPC:EP Channel
+EXHA:Exhaustion
+FOR:Fortitude
+FORRES:Force Resistance
+FORMOD:Fortitude Modifier
+FORHPB:HP Bonus - FOR
+HEARES:Heat Resistance
+HPREG:HP Regen
+IMM:Immunity
+INF:Influence
+INT:Intelligence
+INTMOD:Intelligence Modifier
+INTEG:Integrity
+INTMPB:MP Bonus - INT
+LEAD:Leadership
+LIGRES:Light Resistance
+MAGRES:Magical Resistance
+MDEF:Magic Defense
+MDMG:Magic Damage
+MP:Mana Points
+MPC:MP Channel
+MPOW:Magic Power
+PHYRES:Physical Resistance
+PIERES:Piercing Resistance
+POW:Power
+PSIRES:Psionic Resistance
+REG:Regen
+SHORES:Shock Resistance
+SLARES:Slashing Resistance
+SPCH:Speech
+SPD:Speed
+SPI:Spirit
+SPLR:Spell Resist
+STA:Stamina
+STLTH:Stealth
+STR:Strength
+STRMOD:Strength Modifier
+STRHPB:HP Bonus - STR
+SUR:Survival
+WGT:Weight Allowance
+WIL:Willpower

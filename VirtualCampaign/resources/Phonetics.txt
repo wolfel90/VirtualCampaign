@@ -1,0 +1,470 @@
+ish|  a:s | he|1310
+i h| aa:s | he|1
+i h| ae:s |she|2
+is | ae:s | he|2
+ish| ah:s |s e|4
+i h| ai:s | he|69
+i h| ao:s |s e|2
+ish|aqu:s |s  |1
+ish| ar:s |she|182
+i h| au:s |she|17
+is | au:s | he|17
+i h| ay:s |she|33
+is | ay:s | he|33
+
+is |  b:h |s e|271
+ s | bb:h |s  |1
+ s | bc:h |s  |1
+ s | bd:h |s  |1
+ s | bf:h |s  |1
+ s | bg:h |s  |1
+ s | bh:h |s  |1
+ s | bj:h |s  |4
+ s | bk:h |s  |1
+ s | bl:h |s  |49
+ s | bm:h |s  |2
+ s | bn:h |s  |1
+ s | bp:h |s  |1
+ s |bqu:h |s  |1
+is | br:h |s  |29
+ s | bs:h |s  |11
+ s | bt:h |s  |4
+ s | bv:h |s  |3
+ s | bw:h |s  |1
+ s | by:h |s  |4
+ s | bz:h |s  |1
+
+is |  c:h |s e|789
+ s | cb:h |s  |1
+ s | cc:h |s  |21
+ s | cd:h |s  |1
+ s | cf:h |s  |1
+ s | cg:h |s  |1
+is | ch:h |s  |90
+ s | cj:h |s  |1
+ s | ck:h |s e|39
+is | cl:h |s  |38
+ s | cm:h |s  |1
+ s | cn:h |s  |1
+ s | cp:h |s  |1
+ s |cqu:h |s  |2
+is | cr:h |s  |48
+ s | cs:h |s e|5
+ s | ct:h |s  |103
+ s | cv:h |s  |1
+ s | cw:h |s  |1
+ s | cy:h |s e|12
+ s | cz:h |s  |1
+
+is |  d:h |s e|544
+ s | db:h |s  |1
+ s | dc:h |s  |1
+ s | dd:h |s  |11
+ s | df:h |s  |3
+ s | dg:h |s  |8
+ s | dh:h |s  |2
+ s | dj:h |s  |3
+ s | dk:h |s e|1
+ s | dl:h |s  |10
+ s | dm:h |s  |7
+ s | dn:h |s  |1
+ s | dp:h |s  |1
+ s |dqu:h |s  |2
+is | dr:h |s  |20
+ s | ds:h |s e|5
+ s | dt:h |s  |1
+ s | dv:h |s  |10
+ s | dw:h |s  |1
+ s | dy:h |s e|13
+ s | dz:h |s  |1
+
+ish|  e:s |she|1820
+i h| ea:s | he|160
+i h| ee:s | he|65
+i h| ei:s | he|18
+i h| eo:s | he|6
+ish| er:s |she|365
+i h| eu:s | he|3
+i h| ey:s | he|12
+
+is |  f:h |s e|300
+ s | fb:h |s  |1
+ s | fc:h |s  |1
+ s | fd:h |s  |1
+ s | ff:h |s  |29
+ s | fg:h |s  |1
+is | fh:h |s  |1
+ s | fj:h |s  |1
+ s | fk:h |s e|1
+is | fl:h |s  |20
+ s | fm:h |s  |1
+ s | fn:h |s  |1
+ s | fp:h |s  |1
+ s |fqu:h |s  |1
+is | fr:h |s  |23
+ s | fs:h |s e|1
+ s | ft:h |s  |17
+ s | fv:h |s  |1
+ s | fw:h |s  |1
+ s | fy:h |s e|6
+ s | fz:h |s  |1
+
+is |  g:h |s e|400
+ s | gb:h |s  |1
+ s | gc:h |s  |1
+ s | gd:h |s  |1
+ s | gf:h |s  |1
+ s | gg:h |s  |6
+is | gh:h |s  |41
+ s | gj:h |s  |1
+ s | gk:h |s e|1
+is | gl:h |s  |14
+ s | gm:h |s  |3
+is | gn:h |s  |18
+ s | gp:h |s  |1
+ s |gqu:h |s  |1
+is | gr:h |s  |40
+ s | gs:h |s e|2
+ s | gt:h |s  |4
+ s | gv:h |s  |1
+ s | gw:h |s  |1
+ s | gy:h |s e|5
+ s | gz:h |s  |1
+
+is |  h:h |s e|446
+ s | hb:h |s  |3
+ s | hc:h |s  |1
+ s | hd:h |s  |3
+ s | hf:h |s  |1
+ s | hg:h |s  |1
+ s | hj:h |s  |1
+ s | hk:h |s  |1
+ s | hl:h |s  |6
+ s | hm:h |s  |5
+ s | hn:h |s  |5
+ s | hp:h |s  |1
+ s |hqu:h |s  |1
+ s | hr:h |s  |13
+ s | hs:h |s e|1
+ s | ht:h |s  |24
+ s | hv:h |s  |1
+ s | hw:h |s  |2
+ s | hy:h |s e|10
+ s | hz:h |s  |1
+
+ish|  i:s |she|1258
+i h| ia:s | he|56
+i h| ie:s | he|56
+i h| ii:s | he|1
+  h|ing:s |she|93
+i h| io:s | he|206
+ish| ir:s |she|61
+i h| iu:s | he|2
+i h| iy:s | h |1
+
+is |  j:h |s e|32
+ s | jb:h |s  |1
+ s | jc:h |s  |1
+ s | jd:h |s  |1
+ s | jf:h |s  |1
+ s | jg:h |s  |1
+ s | jh:h |s  |1
+ s | jk:h |s  |1
+ s | jl:h |s  |1
+ s | jm:h |s  |1
+ s | jn:h |s  |1
+ s | jp:h |s  |1
+ s |jqu:h |s  |1
+ s | jr:h |s  |1
+ s | js:h |s  |1
+ s | jt:h |s  |1
+ s | jv:h |s  |1
+ s | jw:h |s  |1
+is | jy:h |s e|1
+ s | jz:h |s  |1
+
+is |  k:h |s e|139
+ s | kb:h |s  |1
+ s | kc:h |s  |1
+ s | kd:h |s  |1
+ s | kf:h |s  |2
+ s | kg:h |s  |2
+is | kh:h |s  |1
+ s | kj:h |s  |1
+ s | kk:h |s e|1
+is | kl:h |s  |3
+ s | km:h |s  |1
+is | kn:h |s  |9
+ s | kp:h |s  |1
+ s |kqu:h |s  |1
+is | kr:h |s  |1
+ s | ks:h |s e|4
+ s | kt:h |s  |1
+ s | kv:h |s  |1
+is | kw:h |s  |1
+is | ky:h |s e|3
+ s | kz:h |s  |1
+
+is |  l:h |s e|845
+ s | lb:h |s  |2
+ s | lc:h |s  |4
+ s | ld:h |s  |21
+ s | lf:h |s  |12
+ s | lg:h |s  |1
+ s | lh:h |s  |1
+ s | lj:h |s  |1
+ s | lk:h |s e|5
+is | ll:h |s  |101
+ s | lm:h |s  |4
+ s | ln:h |s  |3
+ s | lp:h |s  |3
+ s |lqu:h |s  |1
+ s | lr:h |s  |2
+ s | ls:h |s e|5
+ s | lt:h |s  |27
+ s | lv:h |s  |11
+ s | lw:h |s  |2
+ s | ly:h |s e|124
+ s | lz:h |s  |1
+
+is |  m:h |s e|482
+ s | mb:h |s  |14
+ s | mc:h |s  |1
+ s | md:h |s  |1
+ s | mf:h |s  |3
+ s | mg:h |s  |1
+ s | mh:h |s  |1
+ s | mj:h |s  |1
+ s | mk:h |s e|1
+ s | ml:h |s  |1
+ s | mm:h |s  |22
+ s | mn:h |s  |2
+ s | mp:h |s  |60
+ s |mqu:h |s  |1
+ s | mr:h |s  |1
+ s | ms:h |s e|5
+ s | mt:h |s  |1
+ s | mv:h |s  |1
+ s | mw:h |s  |1
+ s | my:h |s e|8
+ s | mz:h |s  |1
+
+is |  n:h |s e|1148
+ s | nb:h |s  |1
+ s | nc:h |s  |94
+ s | nd:h |s  |106
+ s | nf:h |s  |18
+ s | ng:h |s  |133
+ s | nh:h |s  |2
+ s | nj:h |s  |3
+ s | nk:h |s e|14
+ s | nl:h |s  |9
+ s | nm:h |s  |6
+ s | nn:h |s  |19
+ s | np:h |s  |1
+ s |nqu:h |s  |2
+ s | nr:h |s  |1
+ s | ns:h |s e|67
+ s | nt:h |s  |225
+ s | nv:h |s  |20
+ s | nw:h |s  |2
+ s | ny:h |s e|16
+ s | nz:h |s  |1
+
+ish|  o:s |she|1103
+i h| oa:s | he|17
+i h| oe:s | he|6
+i h| oi:s | he|13
+i h| oo:s | he|47
+ish| or:s |she|187
+i h| ou:s | he|109
+i h| oy:s | he|11
+
+is |  p:h |s e|545
+ s | pb:h |s  |1
+ s | pc:h |s  |1
+ s | pd:h |s  |1
+ s | pf:h |s  |2
+ s | pg:h |s  |1
+is | ph:h |s  |17
+ s | pj:h |s  |1
+ s | pk:h |s e|1
+is | pl:h |s  |54
+ s | pm:h |s  |3
+ s | pn:h |s  |1
+ s | pp:h |s  |33
+ s |pqu:h |s  |1
+is | pr:h |s  |112
+is | ps:h |s e|6
+ s | pt:h |s  |23
+ s | pv:h |s  |1
+ s | pw:h |s  |1
+is | py:h |s e|5
+ s | pz:h |s  |1
+
+is | qu:h |s e|33
+
+is |  r:h |s e|1294
+ s | rb:h |s  |6
+ s | rc:h |s e|23
+ s | rd:h |s  |31
+ s | rf:h |s  |8
+ s | rg:h |s  |18
+is | rh:h |s e|4
+ s | rj:h |s  |1
+ s | rk:h |s e|16
+ s | rl:h |s  |16
+ s | rm:h |s  |37
+ s | rn:h |s  |36
+ s | rp:h |s  |14
+ s |rqu:h |s  |1
+ s | rr:h |s  |34
+ s | rs:h |s e|38
+ s | rt:h |s  |80
+ s | rv:h |s  |18
+ s | rw:h |s  |3
+ s | ry:h |s e|58
+ s | rz:h |s  |1
+
+is |  s:h |s e|940
+ s | sb:h |s  |2
+is | sc:h |s  |35
+ s | sd:h |s  |2
+ s | sf:h |s  |8
+ s | sg:h |s  |1
+is | sh:h |s e|69
+ s | sj:h |s  |1
+is | sk:h |s e|12
+is | sl:h |s  |19
+is | sm:h |s  |13
+is | sn:h |s  |4
+is | sp:h |s  |47
+is |squ:h |s  |3
+ s | sr:h |s  |3
+ s | ss:h |s e|99
+is | st:h |s  |217
+ s | sv:h |s  |1
+is | sw:h |s  |8
+is | sy:h |s e|11
+is | sz:h |s  |1
+
+is |  t:h |s e|1312
+ s | tb:h |s  |3
+ s | tc:h |s  |11
+ s | td:h |s  |1
+ s | tf:h |s  |2
+ s | tg:h |s  |2
+is | th:h |s e|116
+ s | tj:h |s  |1
+ s | tk:h |s e|1
+ s | tl:h |s  |24
+ s | tm:h |s  |10
+ s | tn:h |s  |5
+ s | tp:h |s  |1
+ s |tqu:h |s  |1
+is | tr:h |s  |103
+ s | ts:h |s e|5
+ s | tt:h |s  |30
+ s | tv:h |s  |1
+ s | tw:h |s  |9
+is | ty:h |s e|57
+ s | tz:h |s  |1
+
+ish|  u:s |she|556
+i h| ua:s | he|34
+i h| ue:s | he|34
+i h| ui:s | he|24
+i h| uo:s | he|2
+ish| ur:s |she|99
+i h| uu:s | he|1
+i h| uy:s | he|4
+
+is |  v:h |s e|260
+ s | vb:h |s  |1
+ s | vc:h |s  |1
+ s | vd:h |s  |1
+ s | vf:h |s  |1
+ s | vg:h |s  |1
+is | vh:h |s  |1
+ s | vj:h |s  |1
+ s | vk:h |s e|1
+ s | vl:h |s  |1
+ s | vm:h |s  |1
+ s | vn:h |s  |1
+ s | vp:h |s  |1
+ s |vqu:h |s  |1
+ s | vr:h |s  |1
+ s | vs:h |s e|2
+ s | vt:h |s  |1
+ s | vv:h |s  |1
+ s | vw:h |s  |1
+ s | vy:h |s e|2
+ s | vz:h |s  |1
+
+is |  w:h |s e|202
+ s | wb:h |s  |1
+ s | wc:h |s  |1
+ s | wd:h |s  |3
+ s | wf:h |s  |2
+ s | wg:h |s  |1
+is | wh:h |s  |25
+ s | wj:h |s  |1
+ s | wk:h |s e|1
+ s | wl:h |s  |6
+ s | wm:h |s  |1
+ s | wn:h |s  |9
+ s | wp:h |s  |1
+ s |wqu:h |s  |1
+is | wr:h |s  |6
+ s | ws:h |s e|4
+ s | wt:h |s  |2
+ s | wv:h |s  |1
+ s | ww:h |s  |1
+ s | wy:h |s e|2
+ s | wz:h |s  |1
+
+is |  x:h |s e|65
+ s | xb:h |s  |1
+ s | xc:h |s  |7
+ s | xd:h |s  |1
+ s | xf:h |s  |1
+ s | xg:h |s  |1
+is | xh:h |s  |3
+ s | xj:h |s  |1
+ s | xk:h |s e|1
+ s | xl:h |s  |1
+ s | xm:h |s  |1
+ s | xn:h |s  |1
+ s | xp:h |s  |20
+ s |xqu:h |s  |1
+ s | xr:h |s  |1
+ s | xs:h |s e|1
+ s | xt:h |s  |14
+ s | xv:h |s  |1
+ s | xw:h |s  |1
+ s | xy:h |s e|2
+ s | xz:h |s  |1
+
+is |  y:h |s e|385
+
+is |  z:h |s e|21
+ s | zb:h |s  |1
+ s | zc:h |s  |1
+ s | zd:h |s  |1
+ s | zf:h |s  |1
+ s | zg:h |s  |1
+is | zh:h |s  |1
+ s | zj:h |s  |1
+ s | zk:h |s e|1
+ s | zl:h |s  |1
+ s | zm:h |s  |1
+ s | zn:h |s  |1
+ s | zp:h |s  |1
+ s |zqu:h |s  |1
+ s | zr:h |s  |1
+ s | zs:h |s e|1
+ s | zt:h |s  |1
+ s | zv:h |s  |1
+ s | zw:h |s  |1
+ s | zy:h |s e|2
+ s | zz:h |s  |1

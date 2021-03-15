@@ -1,0 +1,26 @@
+STR:Strength
+AGI:Agility
+INT:Intelligence
+FOR:Fortitude
+CHA:Charisma
+STRCHK:Strength Check
+AGICHK:Agility Check
+INTCHK:Intelligence Check
+FORCHK:Fortitude Check
+CHACHK:Charisma Check
+DEF:Defense
+MDEF:Magic Defense
+ACC:Accuracy
+POW:Power
+MPOW:Magic Power
+DMG:Damage
+MDMG:Magic Damage
+DDG:Dodge
+SPD:Speed
+AWA:Awareness
+WGT:Weight Allowance
+REG:Regen
+INF:Influence
+SUR:Survival
+CHAN:Channeling
+SPRT:Spirit

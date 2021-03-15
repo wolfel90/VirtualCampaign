@@ -1,0 +1,7 @@
+1.0.0
+BouncyCastle.Crypto.dll
+Google.Protobuf.dll
+MySql.Data.dll
+Renci.SshNet.dll
+System.ComponentModel.dll
+System.Net.Http.dll

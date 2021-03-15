@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCampaign", "VirtualCampaign\VirtualCampaign.csproj", "{52B57BCF-6DBD-48C3-8BC8-54B6E12030B1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VCInstaller", "VCInstaller\VCInstaller.vdproj", "{476AD50C-7429-4691-AF98-6D84A5F6DD62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCLauncher", "VCLauncher\VCLauncher.csproj", "{823A19D0-26D7-43C5-860E-112F852A3D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B57BCF-6DBD-48C3-8BC8-54B6E12030B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B57BCF-6DBD-48C3-8BC8-54B6E12030B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B57BCF-6DBD-48C3-8BC8-54B6E12030B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B57BCF-6DBD-48C3-8BC8-54B6E12030B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476AD50C-7429-4691-AF98-6D84A5F6DD62}.Debug|Any CPU.ActiveCfg = Debug
+		{476AD50C-7429-4691-AF98-6D84A5F6DD62}.Release|Any CPU.ActiveCfg = Release
+		{476AD50C-7429-4691-AF98-6D84A5F6DD62}.Release|Any CPU.Build.0 = Release
+		{823A19D0-26D7-43C5-860E-112F852A3D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823A19D0-26D7-43C5-860E-112F852A3D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823A19D0-26D7-43C5-860E-112F852A3D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823A19D0-26D7-43C5-860E-112F852A3D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBDFA79A-33AD-4832-B5D1-DB22E2497BAA}
+	EndGlobalSection
+EndGlobal

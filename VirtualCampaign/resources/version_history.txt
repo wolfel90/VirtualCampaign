@@ -1,0 +1,150 @@
+1.1.103 - 12/19/2020
+Character Sheet
+- Updated Talent/School UI
+- Talents and Schools now track progress toward the next rank/level
+- Improved Trait/Talent/School/Ability Selection
+- Debugged HP Meter interaction
+- Minor bug fixes
+
+
+1.1.101 - 12/12/2020
+Character Sheet
+- Updated UI
+- Improved automation
+
+
+1.1.100 - 12/06/2020
+- UI Adjustments
+Character Sheet
+- HP/EP/MP now have visible meters
+
+
+1.1.004 - 11/18/2020
+Item Bank
+- Improved UI
+- Added Magical Effect support
+
+
+1.1.003 - 11/17/2020
+- Added Magical Effects tool 
+- Items now allow the attachment of Magical Effects
+
+
+1.1.002 - 11/08/2020
+Character Sheet
+- Added icons to Abilities
+- Updated Ability display
+- Added roll button to Talents
+
+
+1.1.001 - 11/03/2020
+- Added simple name generator
+
+Article Browser
+- Compatibility updates
+
+
+1.1.000 - 10/05/2020
+- Added Character Generator tool
+- Added manual Save option
+
+1.0.923 - 09/26/2020
+Character Sheet
+- Compatibility updates
+- Added handedness configuration
+
+
+1.0.920 - 09/25/2020
+- Added module categorization for certain game mechanics
+- Game balance changes
+
+
+1.0.910 - 09/13/2020
+Article Browser
+- Minor compatibility adjustments
+
+
+1.0.900 - 09/07/2020
+Atlas
+- Added ruler tool (Shift-click)
+
+Article Browser
+- Minor compatibility adjustments
+
+
+1.0.810 - 08/08/2020
+Atlas
+- Atlas Markers may now have custom boundaries drawn around them
+
+
+1.0.800 - 07/11/2020
+Article Browser
+- Added support for additional formatting tags
+- Added support for custom categories
+
+
+1.0.730 - 07/15/2020
+Atlas
+- Markers will now be downloaded and displayed on the Atlas
+- Markers can be clicked to view details
+- Markers can be double-clicked to view in the Article Browser
+- New Markers can be created 
+- Existing Markers can be repositioned
+
+
+1.0.720 - 07/12/2020
+Character Sheet
+- Fixed issue where Base Damage was not being calculated
+
+Atlas
+- Added Atlas tool. Currently only allows viewing plain map images
+
+
+1.0.710 - 06/07/2020
+- Minor bug fixes
+
+Character Sheet
+- Added tooltips for equipment and abilities
+- Added dice roller button for proficiencies and attributes
+- Added vocation list to abilities tab
+
+
+1.0.700 - 05/29/2020
+- Minor bug fixes
+- Added user registration feature
+
+
+1.0.607 - 04/28/2020
+- Minor bug fixes
+
+
+1.0.601 - 03/29/2020
+- Added icon to menu bar which can be used to dispose of dragged items
+
+Character Sheet
+- Added drag-drop functionality to Inventory
+
+
+1.0.600 - 03/27/2020
+- Added Item Bank tool (still in early development)
+
+
+1.0.530 - 03/08/2020
+Character Sheet
+- Added classic character sheet loading (currently read-only)
+
+
+1.0.520 - 03/02/2020
+Character Sheet
+- Revised calculation method for certain Attributes
+- Added Channeling and Stamina tracking wheels
+- Implemented Stamina and Channeling bonuses based on character Race and Level
+
+
+1.0.510 - 02/20/2020
+Article Browser
+- Added school categorization for abilities
+
+
+1.0.500 - 02/20/2020
+- Added auto sign-in feature

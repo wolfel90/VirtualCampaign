@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Dodge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Dodge.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_purple" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_purple.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="greyBlip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>greyBlip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StatKeywords" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\StatKeywords.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="armor_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\armor_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="history_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\history_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="town_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\town_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_red_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_red_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="small_marker_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\small_marker_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_desert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_desert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="High_HP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\High_HP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Low_EPMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Low_EPMP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="atlas_bg_options" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\atlas_bg_options.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_blue_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_blue_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_green_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_green_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="component_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\component_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="item_star_active_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_star_active_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Power" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Power.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_teal_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_teal_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Speed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Speed.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="item_equip_inactive_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_equip_inactive_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellowBlip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>yellowBlip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Base_Magic_Damage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Base_Magic_Damage.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_teal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_teal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_equip_inactive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_equip_inactive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightAllowance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\WeightAllowance.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="speech_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\speech_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Highest_EPMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Highest_EPMP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Last_Names" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Last_Names.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_black_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_black_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="landmark_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\landmark_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blueBlip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>blueBlip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\WeaponTypes.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_purple_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_purple_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Awareness" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Awareness.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_route" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_route.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_teal_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_teal_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elemental_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\elemental_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_orange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_orange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="version_history" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\version_history.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="greenBlip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>greenBlip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="consumable_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\consumable_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="High_EPMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\High_EPMP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Base_Defense" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Base_Defense.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="atlas_icon_options" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\atlas_icon_options.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Regen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Regen.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_orange_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_orange_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="article_browser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\article_browser.css;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_brown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_brown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crosshairs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\crosshairs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="accessory_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\accessory_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_river" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_river.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stealth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Stealth.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_blue_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_blue_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_brown_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_brown_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_red_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_red_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_orange_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_orange_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_mountain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_mountain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Low_HP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Low_HP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_yellow_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_yellow_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_white_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_white_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_delete_active" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_delete_active.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Highest_HP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Highest_HP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="item_equip_active_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_equip_active_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_purple_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_purple_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_delete_active_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_delete_active_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_black_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_black_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_yellow_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_yellow_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_forest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_forest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_valley" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_valley.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rollIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\rollIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\trash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Channeling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Channeling.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="Lowest_EPMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Lowest_EPMP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="fort_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\fort_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_star_inactive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_star_inactive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_green_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_green_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Base_Magic_Defense" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Base_Magic_Defense.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="generic_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\generic_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="abilityDefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>abilityDefault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stamina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Stamina.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_white_round" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_white_round.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ammo_types" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\ammo_types.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="closeIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>closeIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_star_inactive_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_star_inactive_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MagicPower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\MagicPower.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_brown_pointed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_brown_pointed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_star_active" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_star_active.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="First_Names_F" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\First_Names_F.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClassicAttributes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\ClassicAttributes.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Willpower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Willpower.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_cave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_cave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lowest_HP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Lowest_HP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Accuracy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Accuracy.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Base_Damage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Base_Damage.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ruin_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\ruin_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redBlip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>redBlip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="First_Names_M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\First_Names.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="marker_lake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_lake.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\city_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Standard_HP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\standard_HP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="map_mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\map_mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="item_delete_inactive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_delete_inactive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marker_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Standard_EPMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Standard_EPMP.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="item_equip_active" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\item_equip_active.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Survival" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Survival.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Spirit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Spirit.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="marker_island" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\marker_island.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roll_button_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\roll_button_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Phonetics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Phonetics.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Common_Words" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\Common_Words.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green_check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\green_check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="keyhole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\keyhole.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="switch_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\switch_arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

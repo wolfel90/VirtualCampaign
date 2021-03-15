@@ -1,0 +1,13 @@
+Armband
+Belt
+Cape
+Circlet
+Cloak
+Earring
+Gloves
+Helmet
+Leggings
+Necklace
+Pauldron
+Ring
+Shoes
